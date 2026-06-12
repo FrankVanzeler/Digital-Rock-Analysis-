@@ -257,7 +257,4 @@ Developed for research and experimentation in digital rock physics, pore-network
 
 ## License
 
-## License
-
-This project is intended for academic and educational purposes. 
-If the repository is made public, we recommend adding an open-source license, such as the MIT License, to clarify how others may use, modify, and share the code.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
